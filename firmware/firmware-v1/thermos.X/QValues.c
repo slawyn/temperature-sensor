@@ -1,0 +1,35 @@
+/*
+ * File:   QValues.c
+ * Author: slaw
+ *
+ * Created on April 19, 2021, 9:01 PM
+ */
+#include "typedefs.h"
+int16_t arri16QTemperatureValues[26] = {
+0xf830, // -55
+0xf843, // -50
+0xf85d, // -45
+0xf87f, // -40
+0xf8ab, // -35
+0xf8e4, // -30
+0xf92d, // -25
+0xf988, // -20
+0xf9f7, // -15
+0xfa7c, // -10
+0xfb19, // -5
+0xfbca, // 0
+0xfc8e, // 5
+0xfd61, // 10
+0xfe3e, // 15
+0xff1f, // 20
+0x0, // 25
+0xd7, // 30
+0x1a7, // 35
+0x268, // 40
+0x318, // 45
+0x3b7, // 50
+0x446, // 55
+0x4c4, // 60
+0x531, // 65
+0x58f // 70
+};

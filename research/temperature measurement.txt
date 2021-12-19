@@ -1,0 +1,27 @@
+-> NTC Thermistor 
+   https://eu.mouser.com/Circuit-Protection/Thermistors/NTC-Thermistors/_/N-axfvt?P=1yiw4toZ1z0wuod
+   * 2003     Temperature Range -30 to 45 
+
+-> PIC uC 
+  type: SSOP-28 
+  https://www.mouser.de/ProductDetail/Microchip-Technology/PIC24FJ128GL302-E-SS/?qs=PzGy0jfpSMtxEb%252BGIwFEkA%3D%3D
+
+
+-> Voltage regulator
+  type: TSOP-5
+  https://www.mouser.de/ProductDetail/ON-Semiconductor/NCP164CSN330T1G/?qs=xZ%2FP%252Ba9zWqbi%2FAyy5UtoRw%3D%3D
+
+1- RP2
+6 - RP26
+7 - RP19
+9 - RP18
+10 - RP28
+11 - RP1
+12 - RP0
+13 - RP6
+14 - RP7
+17 - RP15
+18 - RP14
+19 - RP29
+20 - RP31
+26 - RPI37

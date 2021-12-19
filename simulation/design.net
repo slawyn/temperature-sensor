@@ -1,0 +1,10 @@
+* C:\Users\Unixt\OneDrive\Documents\MPLAB Mindi\untitledtest.wxsch
+*#SIMETRIX
+V1 V1_P 0 5
+R1 V1_P R1_N 5k
+R2 V1_P R2_N 5k
+R3 R2_N 0 5k
+R4 R1_N 0 5k
+.GRAPH "V(R2_N)-V(R1_N)" axisType="auto" persistence=-1 curveLabel="Bridge" analysis="tran|ac|dc" xLog="auto" yLog="auto"  nowarn=true disabled=false 
+.TRAN 1m
+

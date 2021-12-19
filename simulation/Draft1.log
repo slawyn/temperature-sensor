@@ -1,0 +1,21 @@
+Circuit: * C:\Users\Unixt\OneDrive\Desktop\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Oct 01 18:14:16 2020
+Total elapsed time: 0.015 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2093
+traniter = 2090
+tranpoints = 1046
+accept = 1046
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1:       6 opcodes  0.1/[0.0]/0.0
+Matrix Compiler2:      21 opcodes  0.0/[0.0]/0.1
+
